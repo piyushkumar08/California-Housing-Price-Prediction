@@ -33,16 +33,16 @@ Dataset Name : "[California_housing.xlsx](https://github.com/piyushkumar08/Calif
 
 
 ## 4. Implementation <a name="model"></a> 
-Step1 : Encoding of categorical data to numerical data using dummy values
-Step2 : EDA for Location
-Step3 : Missing Value Treatment
-Step4 : Extraction of Dependent and Independent variables 
-Step5 : Training and Testing data splitwith a ratio of 80:20
-Step6 : Standardization of dependent variables
-Step7 : Linear Regression modelling is done on train data and after that testing is performed
-Step8 : RMSE calculation.
-Step9 : Linear Regression modelling for one independent variable i.e income
-Step10 : Visualisation for the model
+- Encoding of categorical data to numerical data using dummy values
+- EDA for Location
+- Missing Value Treatment
+- Extraction of Dependent and Independent variables 
+- Training and Testing data splitwith a ratio of 80:20
+- Standardization of dependent variables
+- Linear Regression modelling is done on train data and after that testing is performed
+- RMSE calculation
+- Linear Regression modelling for one independent variable i.e income
+- Visualisation for the model
 
 ## 5. Result<a name="results"></a>
 The details of the results - [California_HousingPricePrediction.ipynb](https://github.com/piyushkumar08/California-Housing-Price-Prediction/blob/main/California_HousingPricePrediction.ipynb)
